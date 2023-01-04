@@ -5,6 +5,10 @@
   list-style-type: none;
   scroll-behavior: smooth;
 }
+#sample
+{
+  font-size: 30px;
+}
 
 /* Custom Scrollbar */
 ::-webkit-scrollbar {
